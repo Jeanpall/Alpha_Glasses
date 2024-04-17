@@ -79,7 +79,7 @@ _Requerimiento para utilizar el modelado_
 
 _QR para descargar el APK del proyecto_
 
-_Requerimiento para utilizae el apk_
+_Requerimiento para utilizar el apk_
 * Bluetooth mínimo versión 2.0+EDR
 * Accesibilidad de permisos (Bluetooth)
 * Android minimo version 8.0 OREO
