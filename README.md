@@ -56,5 +56,5 @@ _Participantes del proyecto_
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia)
+Este proyecto está bajo la Licencia MIT License
 
