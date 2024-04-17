@@ -25,9 +25,9 @@ _Es importante destacar que el prototipo desarrollado hasta el momento represent
 _contenido del proyecto_
 
 * [Arduino Files](https://github.com/Jeanpall/Alpha_Glasses/tree/main/Arduino%20Files) - Códigos de Arduino para la placa utilizados en el proyecto.
-* [Bitacora] -  Bitácora con todas los registros desde la creación del proyecto.
-* [Smart-Glass-master - V4.1] - Código ultima version de la aplicacion
-* [Smart-Glass-master] - Código primera version de la aplicacion
+* [Bitacora](https://github.com/Jeanpall/Alpha_Glasses/tree/main/Bitacora) -  Bitácora con todas los registros desde la creación del proyecto.
+* [Smart-Glass-master - V4.1](https://github.com/Jeanpall/Alpha_Glasses/tree/main/Smart-Glass-master%20-%20V4.1) - Código ultima version de la aplicacion
+* [Smart-Glass-master](https://github.com/Jeanpall/Alpha_Glasses/tree/main/Smart-Glass-master) - Código primera version de la aplicacion
 
 
 ### Instalación 🔧
@@ -63,7 +63,13 @@ _Participantes del proyecto_
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia MIT License
+_Este proyecto está bajo la Licencia MIT License_
+
+## codigo QR📄
+_QR para descargar la aplicacion del proyecto_
+![image](https://github.com/Jeanpall/Alpha_Glasses/assets/110853639/73f9d151-0e4c-46d6-bc5b-448bc28957ac)
+
+
 
 ![image](https://github.com/Jeanpall/Alpha_Glasses/assets/110853639/f250db64-e0fd-4b07-94ae-27138f0a41da)
 
