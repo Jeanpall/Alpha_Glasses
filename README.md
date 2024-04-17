@@ -21,6 +21,14 @@ _Es importante destacar que el prototipo desarrollado hasta el momento represent
 
 ## Comenzando 🚀
 
+### contenido 📜
+_contenido del proyecto_
+
+* [Arduino Files]- Códigos de Arduino para la placa utilizados en el proyecto.
+* [Bitacora] -  Bitácora con todas los registros desde la creación del proyecto.
+* [Smart-Glass-master - V4.1] - Código ultima version de la aplicacion
+* [Smart-Glass-master] - Código primera version de la aplicacion
+
 
 ### Instalación 🔧
 
