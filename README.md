@@ -49,6 +49,7 @@ _Este repositorio también contiene el código correspondiente a una aplicación
 _Lenguaje utilizado para crear el proyecto_
 
 * [Java]- Lenguaje usado para la aplicacion
+* [Material Design] - Lenguaje usado para el diseño de la aplicación.
 * [C++] - Lenguaje usado para la programacion de la placa
 
 
