@@ -47,9 +47,9 @@ _Lenguaje utilizado para crear el proyecto_
 
 _Participantes del proyecto_
 
-* **Luis Gomez** - *Trabajo Inicial* 
-* **Juan Castro** - *Documentación* 
-* **Jeanpall Ortega** - *Documentación* 
+* **Luis Gomez** - *Desarrollador software* 
+* **Juan Castro** - *Desarrollador software* 
+* **Jeanpall Ortega** - *Desarrollador software* 
 
 ## Licencia 📄
 
