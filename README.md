@@ -1,4 +1,5 @@
 # Alpha Glasses
+![image](https://github.com/Jeanpall/Alpha_Glasses/assets/110853639/0baacbec-1e70-4874-856a-ae9e0e2f28a6)
 
 _El proyecto se enfoca en la ingeniería inversa de unas smart glasses utilizando un video disponible en internet como referencia inicial. A partir de este análisis, se ha desarrollado un prototipo mejorado del dispositivo, que integra mejoras significativas en comparación con el diseño original._
 
@@ -47,11 +48,15 @@ _Lenguaje utilizado para crear el proyecto_
 
 _Participantes del proyecto_
 
-* **Luis Gomez** - *Trabajo Inicial* 
-* **Juan Castro** - *Documentación* 
-* **Jeanpall Ortega** - *Documentación* 
+* **Luis Gomez** - *Desarrollador software* 
+* **Juan Castro** - *Desarrollador software* 
+* **Jeanpall Ortega** - *Desarrollador software* 
 
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia MIT License
+
+![image](https://github.com/Jeanpall/Alpha_Glasses/assets/110853639/f250db64-e0fd-4b07-94ae-27138f0a41da)
+
+
 
