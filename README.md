@@ -66,7 +66,7 @@ _Participantes del proyecto_
 _Este proyecto está bajo la Licencia MIT License_
 
 ## codigo QR📄
-_QR para descargar la aplicacion del proyecto_
+_QR para descargar el APK del proyecto_
 ![image](https://github.com/Jeanpall/Alpha_Glasses/assets/110853639/73f9d151-0e4c-46d6-bc5b-448bc28957ac)
 
 
