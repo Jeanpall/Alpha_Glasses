@@ -62,29 +62,33 @@ _Participantes del proyecto_
 * **Juan Castro** - *Desarrollador software* 
 * **Jeanpall Ortega** - *Desarrollador software* 
 
-## Licencia 📄
-
-_Este proyecto está bajo la Licencia MIT License_
 
 ## Requisistos y Caracteristicas📄
 
-## Modelado📄
+### Modelado📄
 
-_Requerimiento para utiliazr el modelado_
+_Requerimiento para utilizar el modelado_
+
 * Tener Lentes/Montura
 * El peso del dispositivo es de 80gr
 * La bateria tiene una autonomia de 2Horas 
 
 ![image](https://github.com/Jeanpall/Alpha_Glasses/assets/110853639/f250db64-e0fd-4b07-94ae-27138f0a41da)
 
-## Codigo QR📄
+### Codigo QR📄
 
 _QR para descargar el APK del proyecto_
-_Requerimiento para utiliazr el apk_
+
+_Requerimiento para utilizae el apk_
 * Bluetooth mínimo versión 2.0+EDR
-* Accesibilidad de permisos (Bluethooth)
+* Accesibilidad de permisos (Bluetooth)
 * Android minimo version 8.0 OREO
 ![image](https://github.com/Jeanpall/Alpha_Glasses/assets/110853639/73f9d151-0e4c-46d6-bc5b-448bc28957ac)
+
+
+## Licencia 📄
+
+_Este proyecto está bajo la Licencia MIT License_
 
 
 
